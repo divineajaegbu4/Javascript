@@ -1,4 +1,17 @@
-let name = "Divine Ajaegbu";
+let firstName = "Divine";
+let lastName = "Love";
 
-// To print out my name
-console.log(name)
+let fullName = firstName + ' ' + lastName;
+
+// Print out the fullName
+console.log(fullName)
+
+
+//Challenge area
+let city = "Lagos";
+let country = "Nigeria";
+
+let location = city + ', ' + country
+
+// Print out the location
+console.log(location);
