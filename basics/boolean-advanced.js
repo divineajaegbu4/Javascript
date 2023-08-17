@@ -1,5 +1,5 @@
-let isAccountLocked = false;
-let userRole = "role";
+const isAccountLocked = false;
+const userRole = "role";
 
 if(isAccountLocked) {
     console.log("It is freezing outside!")
@@ -11,7 +11,7 @@ if(isAccountLocked) {
 
 
 // Challenge area
-let temp = 60;
+const temp = 60;
 
 if(temp <= 45) {
     console.log("It is freezing outside")
